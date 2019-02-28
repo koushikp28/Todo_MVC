@@ -1,0 +1,44 @@
+h1{
+    opacity: 0.7;
+    font-family:"serif";
+	font-style:italic;
+	text-align: center;
+}
+#top {
+  display: table;
+  text-align: center;
+  align: center;
+  height: 100px;
+  width: 70%;
+  margin-left: 200px;
+  margin-top: 10px;
+  background-color: mediumaquamarine;
+}
+#todolist{
+  display: table;
+  background-color: aquamarine;
+
+}
+table {
+  width:100%;
+  display: table;
+  border-spacing: 1px;
+  text-align: center;
+  align: center;
+}
+table, tr, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  align: center;
+}
+#edit {
+  display: table;
+  text-align: center;
+  align: center;
+  height: 200px;
+  width: 70%;
+  margin-left: 200px;
+  margin-top: 10px;
+  background-color: aquamarine;
+}
